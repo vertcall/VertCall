@@ -32,7 +32,7 @@ const IndexPage = () => {
         image={'/banner1.png'}
         title={'Essentials for a cold winter'}
         subtitle={'Discover Autumn Winter 2021'}
-        ctaText={'shop now'}
+        ctaText={'botão'}
         ctaAction={goToShop}
       />
 
