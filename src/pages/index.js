@@ -43,7 +43,7 @@ const IndexPage = () => {
           <span className={styles.gold}>mentira.</span>
         </p>
         <p>
-          que nos permite ver a <span className={styles.gold}>verdade.</span> -{' '}
+          que nos permite conhecer a <span className={styles.gold}>verdade.</span> -{' '}
           <span className={styles.gold}>Pablo Picasso</span>
         </p>
       </div>
@@ -51,7 +51,7 @@ const IndexPage = () => {
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'New Collection'} />
+          <Title name={'Nossas produções'} />
           <ProductCollectionGrid />
         </Container>
       </div>
