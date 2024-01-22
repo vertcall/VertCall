@@ -30,28 +30,28 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Criando, produzindo e promovendo arte e cultura'}
-        subtitle={'Conheça mais da VertCall Produções'}
-        ctaText={'Sobre Nós'}
+        title={'Essentials for a cold winter'}
+        subtitle={'Discover Autumn Winter 2021'}
+        ctaText={'shop now'}
         ctaAction={goToShop}
       />
 
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          A arte é a{' '}
-          <span className={styles.gold}>mentira.</span>
+          This is a demonstration of the Sydney theme for verse by{' '}
+          <span className={styles.gold}>matter design.</span>
         </p>
         <p>
-          que nos permite conhecer a <span className={styles.gold}>verdade.</span> -{' '}
-          <span className={styles.gold}>Pablo Picasso</span>
+          wear by <span className={styles.gold}>sunspel</span> and{' '}
+          <span className={styles.gold}>scotch&soda</span>
         </p>
       </div>
 
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'Nossas produções'} />
+          <Title name={'New Collection'} />
           <ProductCollectionGrid />
         </Container>
       </div>
