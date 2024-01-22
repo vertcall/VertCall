@@ -13,25 +13,25 @@
   ],
   "social": {
     "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
+    "instagram": "https://www.instagram.com/vertcallproducoes/",
     "twitter": "https://twitter.com/hellomatter",
     "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
   },
   "paymentOptions": {
-    "visa": true,
-    "mastercard": true,
-    "amex": true
+    "visa": false,
+    "mastercard": false,
+    "amex": false
   },
   "footerLinks": [
     {
       "subTitle": "Info",
       "links": [
         {
-          "text": "About Us",
+          "text": "Sobre nós",
           "link": "/about"
         },
         {
-          "text": "Journal",
+          "text": "Blog",
           "link": "/blog"
         },
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "subTitle": "Support",
+      "subTitle": "Contato",
       "links": [
         {
           "text": "FAQ",
@@ -129,12 +129,12 @@
       ]
     },
     {
-      "menuLabel": "journal",
+      "menuLabel": "Blog",
       "menuLink": "/blog",
       "category": null
     },
     {
-      "menuLabel": "About",
+      "menuLabel": "Nossas Produções",
       "menuLink": "/about",
       "category": null
     }
